@@ -1,0 +1,5 @@
+CSCore 1.2.1.2
+http://filoe.github.io/cscore
+© Copyright 2017 Florian Rosmann
+Licensed under the Microsoft Public License
+https://opensource.org/licenses/MS-PL

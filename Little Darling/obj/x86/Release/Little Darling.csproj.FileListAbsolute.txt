@@ -1,0 +1,16 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Release\Little Darling.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Release\LittleDarling.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Release\LittleDarling.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Release\Little Darling.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Release\svchost.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\bin\Release\svchost.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\bin\Release\svchost.exe.manifest
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\bin\Release\svchost.application
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\bin\Release\svchost.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\bin\Release\svchost.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\bin\Release\CSCore.dll
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\bin\Release\CSCore.xml
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Release\svchost.exe.manifest
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Release\svchost.application
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Release\svchost.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Release\LittleDarling.Form_About.resources

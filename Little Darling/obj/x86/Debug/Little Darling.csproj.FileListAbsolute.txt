@@ -1,0 +1,7 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\My Little Darling\MyLittleDarling\obj\x86\Debug\Little Darling.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\My Little Darling\MyLittleDarling\obj\x86\Debug\MyLittleDarling.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\My Little Darling\MyLittleDarling\obj\x86\Debug\LittleDarling.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\My Little Darling\MyLittleDarling\obj\x86\Debug\Little Darling.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\My Little Darling\MyLittleDarling\obj\x86\Debug\svchost.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\bin\Debug\svchost.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Little Darling\Little Darling\obj\x86\Debug\svchost.exe
